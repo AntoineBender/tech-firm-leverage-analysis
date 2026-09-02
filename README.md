@@ -25,7 +25,7 @@ volatility), or size (revenue).
 ## Files
 
 - `debt_equity_report.pdf` — final 7-page report
-- `debt_equity_analysis.ipynb` / `.pdf` — the analysis notebook (code,
+- `debt_equity_analysis.ipynb` / `Tech_Firm_Leverage_Analysis.pdf` — the analysis notebook (code,
   outputs, and charts) and its rendered PDF
 - `data_extraction.ipynb` — the Yahoo Finance extraction notebook
 - `debt_equity_data.csv` — the cleaned dataset
