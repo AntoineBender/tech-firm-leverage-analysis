@@ -24,11 +24,11 @@ volatility), or size (revenue).
 
 ## Files
 
-- `DHS4_Report_Bender_Carliez_Rabache_Guichard.pdf` — final 7-page report
-- `DHS4_Script_Bender_Carliez_Guichard_Rabache.ipynb` / `.pdf` — the analysis
-  notebook (code, outputs, and charts) and its rendered PDF
-- `How_we_create_raw_CSV_file.ipynb` — the Yahoo Finance extraction notebook
-- `DHS4_Data_Bender_Carliez_Guichard_Rabache.csv` — the cleaned dataset
+- `debt_equity_report.pdf` — final 7-page report
+- `debt_equity_analysis.ipynb` / `.pdf` — the analysis notebook (code,
+  outputs, and charts) and its rendered PDF
+- `data_extraction.ipynb` — the Yahoo Finance extraction notebook
+- `debt_equity_data.csv` — the cleaned dataset
 
 ## Result
 

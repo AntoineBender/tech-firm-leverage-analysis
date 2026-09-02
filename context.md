@@ -3,7 +3,7 @@
 **Course:** Data Handling (IÉSEG, 3A / S4), Prof. Hicham Daher
 **Team:** "Ace Research and Consulting Co", Group 3 — Antoine Bender, Cyprien Carliez, Aglaé Guichard, Lou Rabache
 **Dates:** Sep 2025 (kickoff, Sep 17) – Nov 4 2025 (submission)
-**Files in this folder:** `DHS4_Report_Bender_Carliez_Rabache_Guichard.pdf` (final 7-page report), `DHS4_Data_Bender_Carliez_Guichard_Rabache.csv` (raw dataset)
+**Files in this folder:** `debt_equity_report.pdf` (final 7-page report), `debt_equity_data.csv` (raw dataset)
 
 ## Research question
 Is there a relationship between a company's debt financing level (Debt-to-Equity ratio) and its financial performance (stock return), size (revenue), and risk (volatility of returns)?
